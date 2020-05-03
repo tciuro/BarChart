@@ -21,17 +21,17 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		59259DEE245E8D0A006EB864 /* CALayerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DE3245E8D0A006EB864 /* CALayerExtension.swift */; };
-		59259DEF245E8D0A006EB864 /* BasicBarEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DE4245E8D0A006EB864 /* BasicBarEntry.swift */; };
-		59259DF0245E8D0A006EB864 /* BeautifulBarChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DE5245E8D0A006EB864 /* BeautifulBarChart.swift */; };
-		59259DF1245E8D0A006EB864 /* BasicBarChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DE6245E8D0A006EB864 /* BasicBarChart.swift */; };
-		59259DF2245E8D0A006EB864 /* BeautifulBarChartPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DE7245E8D0A006EB864 /* BeautifulBarChartPresenter.swift */; };
-		59259DF3245E8D0A006EB864 /* ArrayExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DE8245E8D0A006EB864 /* ArrayExtension.swift */; };
-		59259DF4245E8D0A006EB864 /* BeautifulBarEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DE9245E8D0A006EB864 /* BeautifulBarEntry.swift */; };
-		59259DF5245E8D0A006EB864 /* BasicBarChartPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DEA245E8D0A006EB864 /* BasicBarChartPresenter.swift */; };
-		59259DF6245E8D0A006EB864 /* CustomSegments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DEB245E8D0A006EB864 /* CustomSegments.swift */; };
-		59259DF7245E8D0A006EB864 /* DataEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DEC245E8D0A006EB864 /* DataEntry.swift */; };
-		59259DF8245E8D0A006EB864 /* UIBezierPathExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DED245E8D0A006EB864 /* UIBezierPathExtension.swift */; };
+		59259E05245E8E36006EB864 /* CustomSegments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DFA245E8E36006EB864 /* CustomSegments.swift */; };
+		59259E06245E8E36006EB864 /* CALayerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DFB245E8E36006EB864 /* CALayerExtension.swift */; };
+		59259E07245E8E36006EB864 /* BasicBarChartPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DFC245E8E36006EB864 /* BasicBarChartPresenter.swift */; };
+		59259E08245E8E36006EB864 /* UIBezierPathExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DFD245E8E36006EB864 /* UIBezierPathExtension.swift */; };
+		59259E09245E8E36006EB864 /* BasicBarChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DFE245E8E36006EB864 /* BasicBarChart.swift */; };
+		59259E0A245E8E36006EB864 /* ArrayExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259DFF245E8E36006EB864 /* ArrayExtension.swift */; };
+		59259E0B245E8E36006EB864 /* DataEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259E00245E8E36006EB864 /* DataEntry.swift */; };
+		59259E0C245E8E36006EB864 /* BeautifulBarEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259E01245E8E36006EB864 /* BeautifulBarEntry.swift */; };
+		59259E0D245E8E36006EB864 /* BeautifulBarChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259E02245E8E36006EB864 /* BeautifulBarChart.swift */; };
+		59259E0E245E8E36006EB864 /* BasicBarEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259E03245E8E36006EB864 /* BasicBarEntry.swift */; };
+		59259E0F245E8E36006EB864 /* BeautifulBarChartPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59259E04245E8E36006EB864 /* BeautifulBarChartPresenter.swift */; };
 		OBJ_34 /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_6 /* Package.swift */; };
 		OBJ_45 /* BarChartTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_12 /* BarChartTests.swift */; };
 		OBJ_46 /* XCTestManifests.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_13 /* XCTestManifests.swift */; };
@@ -56,17 +56,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		59259DE3245E8D0A006EB864 /* CALayerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CALayerExtension.swift; path = BarChart/CALayerExtension.swift; sourceTree = SOURCE_ROOT; };
-		59259DE4245E8D0A006EB864 /* BasicBarEntry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BasicBarEntry.swift; path = BarChart/BasicBarEntry.swift; sourceTree = SOURCE_ROOT; };
-		59259DE5245E8D0A006EB864 /* BeautifulBarChart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BeautifulBarChart.swift; path = BarChart/BeautifulBarChart.swift; sourceTree = SOURCE_ROOT; };
-		59259DE6245E8D0A006EB864 /* BasicBarChart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BasicBarChart.swift; path = BarChart/BasicBarChart.swift; sourceTree = SOURCE_ROOT; };
-		59259DE7245E8D0A006EB864 /* BeautifulBarChartPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BeautifulBarChartPresenter.swift; path = BarChart/BeautifulBarChartPresenter.swift; sourceTree = SOURCE_ROOT; };
-		59259DE8245E8D0A006EB864 /* ArrayExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ArrayExtension.swift; path = BarChart/ArrayExtension.swift; sourceTree = SOURCE_ROOT; };
-		59259DE9245E8D0A006EB864 /* BeautifulBarEntry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BeautifulBarEntry.swift; path = BarChart/BeautifulBarEntry.swift; sourceTree = SOURCE_ROOT; };
-		59259DEA245E8D0A006EB864 /* BasicBarChartPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BasicBarChartPresenter.swift; path = BarChart/BasicBarChartPresenter.swift; sourceTree = SOURCE_ROOT; };
-		59259DEB245E8D0A006EB864 /* CustomSegments.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomSegments.swift; path = BarChart/CustomSegments.swift; sourceTree = SOURCE_ROOT; };
-		59259DEC245E8D0A006EB864 /* DataEntry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DataEntry.swift; path = BarChart/DataEntry.swift; sourceTree = SOURCE_ROOT; };
-		59259DED245E8D0A006EB864 /* UIBezierPathExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UIBezierPathExtension.swift; path = BarChart/UIBezierPathExtension.swift; sourceTree = SOURCE_ROOT; };
+		59259DFA245E8E36006EB864 /* CustomSegments.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomSegments.swift; sourceTree = "<group>"; };
+		59259DFB245E8E36006EB864 /* CALayerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CALayerExtension.swift; sourceTree = "<group>"; };
+		59259DFC245E8E36006EB864 /* BasicBarChartPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicBarChartPresenter.swift; sourceTree = "<group>"; };
+		59259DFD245E8E36006EB864 /* UIBezierPathExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIBezierPathExtension.swift; sourceTree = "<group>"; };
+		59259DFE245E8E36006EB864 /* BasicBarChart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicBarChart.swift; sourceTree = "<group>"; };
+		59259DFF245E8E36006EB864 /* ArrayExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArrayExtension.swift; sourceTree = "<group>"; };
+		59259E00245E8E36006EB864 /* DataEntry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataEntry.swift; sourceTree = "<group>"; };
+		59259E01245E8E36006EB864 /* BeautifulBarEntry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeautifulBarEntry.swift; sourceTree = "<group>"; };
+		59259E02245E8E36006EB864 /* BeautifulBarChart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeautifulBarChart.swift; sourceTree = "<group>"; };
+		59259E03245E8E36006EB864 /* BasicBarEntry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicBarEntry.swift; sourceTree = "<group>"; };
+		59259E04245E8E36006EB864 /* BeautifulBarChartPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeautifulBarChartPresenter.swift; sourceTree = "<group>"; };
 		"BarChart::BarChart::Product" /* BarChart.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = BarChart.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"BarChart::BarChartTests::Product" /* BarChartTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; path = BarChartTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		OBJ_12 /* BarChartTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarChartTests.swift; sourceTree = "<group>"; };
@@ -98,6 +98,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		59259DF9245E8E36006EB864 /* BarChart */ = {
+			isa = PBXGroup;
+			children = (
+				59259DFA245E8E36006EB864 /* CustomSegments.swift */,
+				59259DFB245E8E36006EB864 /* CALayerExtension.swift */,
+				59259DFC245E8E36006EB864 /* BasicBarChartPresenter.swift */,
+				59259DFD245E8E36006EB864 /* UIBezierPathExtension.swift */,
+				59259DFE245E8E36006EB864 /* BasicBarChart.swift */,
+				59259DFF245E8E36006EB864 /* ArrayExtension.swift */,
+				59259E00245E8E36006EB864 /* DataEntry.swift */,
+				59259E01245E8E36006EB864 /* BeautifulBarEntry.swift */,
+				59259E02245E8E36006EB864 /* BeautifulBarChart.swift */,
+				59259E03245E8E36006EB864 /* BasicBarEntry.swift */,
+				59259E04245E8E36006EB864 /* BeautifulBarChartPresenter.swift */,
+			);
+			name = BarChart;
+			path = Sources/BarChart;
+			sourceTree = "<group>";
+		};
 		OBJ_10 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -125,7 +144,7 @@
 			name = Products;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		OBJ_5 /*  */ = {
+		OBJ_5 = {
 			isa = PBXGroup;
 			children = (
 				OBJ_6 /* Package.swift */,
@@ -138,34 +157,14 @@
 				OBJ_20 /* README.md */,
 				OBJ_21 /* demo.gif */,
 			);
-			name = "";
 			sourceTree = "<group>";
 		};
 		OBJ_7 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				OBJ_8 /* BarChart */,
+				59259DF9245E8E36006EB864 /* BarChart */,
 			);
 			name = Sources;
-			sourceTree = SOURCE_ROOT;
-		};
-		OBJ_8 /* BarChart */ = {
-			isa = PBXGroup;
-			children = (
-				59259DE8245E8D0A006EB864 /* ArrayExtension.swift */,
-				59259DE6245E8D0A006EB864 /* BasicBarChart.swift */,
-				59259DEA245E8D0A006EB864 /* BasicBarChartPresenter.swift */,
-				59259DE4245E8D0A006EB864 /* BasicBarEntry.swift */,
-				59259DE5245E8D0A006EB864 /* BeautifulBarChart.swift */,
-				59259DE7245E8D0A006EB864 /* BeautifulBarChartPresenter.swift */,
-				59259DE9245E8D0A006EB864 /* BeautifulBarEntry.swift */,
-				59259DE3245E8D0A006EB864 /* CALayerExtension.swift */,
-				59259DEB245E8D0A006EB864 /* CustomSegments.swift */,
-				59259DEC245E8D0A006EB864 /* DataEntry.swift */,
-				59259DED245E8D0A006EB864 /* UIBezierPathExtension.swift */,
-			);
-			name = BarChart;
-			path = Sources/BarChart;
 			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
@@ -239,7 +238,7 @@
 			knownRegions = (
 				en,
 			);
-			mainGroup = OBJ_5 /*  */;
+			mainGroup = OBJ_5;
 			productRefGroup = OBJ_14 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -257,17 +256,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
-				59259DF5245E8D0A006EB864 /* BasicBarChartPresenter.swift in Sources */,
-				59259DF6245E8D0A006EB864 /* CustomSegments.swift in Sources */,
-				59259DF2245E8D0A006EB864 /* BeautifulBarChartPresenter.swift in Sources */,
-				59259DEE245E8D0A006EB864 /* CALayerExtension.swift in Sources */,
-				59259DF0245E8D0A006EB864 /* BeautifulBarChart.swift in Sources */,
-				59259DF3245E8D0A006EB864 /* ArrayExtension.swift in Sources */,
-				59259DF7245E8D0A006EB864 /* DataEntry.swift in Sources */,
-				59259DF4245E8D0A006EB864 /* BeautifulBarEntry.swift in Sources */,
-				59259DEF245E8D0A006EB864 /* BasicBarEntry.swift in Sources */,
-				59259DF8245E8D0A006EB864 /* UIBezierPathExtension.swift in Sources */,
-				59259DF1245E8D0A006EB864 /* BasicBarChart.swift in Sources */,
+				59259E05245E8E36006EB864 /* CustomSegments.swift in Sources */,
+				59259E0D245E8E36006EB864 /* BeautifulBarChart.swift in Sources */,
+				59259E06245E8E36006EB864 /* CALayerExtension.swift in Sources */,
+				59259E0C245E8E36006EB864 /* BeautifulBarEntry.swift in Sources */,
+				59259E0B245E8E36006EB864 /* DataEntry.swift in Sources */,
+				59259E0E245E8E36006EB864 /* BasicBarEntry.swift in Sources */,
+				59259E09245E8E36006EB864 /* BasicBarChart.swift in Sources */,
+				59259E0A245E8E36006EB864 /* ArrayExtension.swift in Sources */,
+				59259E0F245E8E36006EB864 /* BeautifulBarChartPresenter.swift in Sources */,
+				59259E07245E8E36006EB864 /* BasicBarChartPresenter.swift in Sources */,
+				59259E08245E8E36006EB864 /* UIBezierPathExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
