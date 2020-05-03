@@ -24,8 +24,6 @@ let package = Package(
         .target(
             name: "BarChart",
             dependencies: [],
-            path: ".",
-            sources: ["BarChart"]),
         .testTarget(
             name: "BarChartTests",
             dependencies: ["BarChart"]),
